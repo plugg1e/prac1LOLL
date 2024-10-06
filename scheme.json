@@ -1,0 +1,8 @@
+{
+    "name": "my_database",
+    "tuples_limit": 1000,
+    "structure": {
+        "таблица1": ["id", "name", "age", "email"],
+        "таблица2": ["product_id", "product_name", "price"]
+    }
+}
